@@ -49,8 +49,8 @@ Players only can watch the front of the car, arrows do not work.
 
 ### Screeshots
 
-![Screenshot 2023-12-12 at 20.13.07](screenshots/Screenshot 2023-12-12 at 20.13.07.png)
+![Screenshot 2023-12-12 at 20.13.07](./screenshots/Screenshot 2023-12-12 at 20.13.07.png)
 
-![Screenshot 2023-12-12 at 20.14.05](screenshots/Screenshot 2023-12-12 at 20.14.05.png)
+![Screenshot 2023-12-12 at 20.14.05](./screenshots/Screenshot 2023-12-12 at 20.14.05.png)
 
-![Screenshot 2023-12-12 at 20.15.22](screenshots/Screenshot 2023-12-12 at 20.15.22.png)
+![Screenshot 2023-12-12 at 20.15.22](./screenshots/Screenshot 2023-12-12 at 20.15.22.png)
